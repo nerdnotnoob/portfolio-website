@@ -65,6 +65,20 @@ export const Documentaries: FullData = {
   ],
   videos: [
     {
+      id: 'GmRPHrXHAHI',
+      type: 'regular',
+      title:
+        'Egbin Power Medical Outreach 2025 Highlights | Community Health Impact in Ipakan, Ijede & Egbin',
+      duration: '1:30',
+    },
+    {
+      id: 'gfIJaMi26c8',
+      type: 'regular',
+      title:
+        'Egbin Power Community Football Competition Highlights | Annual Tournament Documentary',
+      duration: '1:27',
+    },
+    {
       id: 'FHaYAqDjLN4',
       type: 'regular',
       title:
@@ -188,6 +202,27 @@ export const Concerts: FullData = {
   ],
 
   videos: [
+    {
+      id: 'zn9zAZg0Eec',
+      type: 'regular',
+      title:
+        'Funeral Ceremony of Mama Sarah O. Olaopa | Final Rites in Igbo-Ora',
+      duration: '1:25',
+    },
+    {
+      id: 'hizUEw9F5Bc',
+      type: 'regular',
+      title:
+        '11th Sigma Public Lecture UI 2025 Highlights | MTN CEO Karl Toriola on Tech & Jobs',
+      duration: '1:05',
+    },
+    {
+      id: 'bTf2Whoymzc',
+      type: 'regular',
+      title:
+        'WeNaija YouthFest 3.0 by NSSF | Exposing Risks of Incomplete Sexual & Reproductive Health Talks',
+      duration: '2:14',
+    },
     {
       id: 'zaq98wW5DIA',
       type: 'regular',
@@ -359,6 +394,20 @@ export const Corporate: FullData = {
     },
   ],
   videos: [
+    {
+      id: 'hizUEw9F5Bc',
+      type: 'regular',
+      title:
+        '11th Sigma Public Lecture UI 2025 Highlights | MTN CEO Karl Toriola on Tech & Jobs',
+      duration: '1:05',
+    },
+    {
+      id: 'bTf2Whoymzc',
+      type: 'regular',
+      title:
+        'WeNaija YouthFest 3.0 by NSSF | Exposing Risks of Incomplete Sexual & Reproductive Health Talks',
+      duration: '2:14',
+    },
     {
       id: '8EmOO4QCFJw',
       type: 'regular',

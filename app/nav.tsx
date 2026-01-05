@@ -17,7 +17,7 @@ const Nav = () => {
   const { theme, toggleTheme } = useThemeStore();
   return (
     <nav
-      className={`relative flex items-center ${theme === 'light' ? 'bg-[#f9f9f9]' : 'bg-[#1e1e1e]'} px-4 lg:justify-center lg:px-0 ${pathname === '/home' ? 'hidden' : 'block'}`}
+      className={`relative z-50 flex items-center ${theme === 'light' ? 'bg-[#f9f9f9]' : 'bg-[#1e1e1e]'} px-4 lg:justify-center lg:px-0 ${pathname === '/home' ? 'hidden' : 'block'}`}
     >
       <div className="flex max-w-[1440px] basis-full flex-col items-center gap-10 py-5 sm:py-10 lg:basis-auto lg:py-20">
         <Link href={'/'}>
