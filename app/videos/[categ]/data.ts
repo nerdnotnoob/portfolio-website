@@ -641,6 +641,11 @@ export const Commercials: FullData = {
 export const Weddings: FullData = {
   shorts: [
     {
+      id: 'zhZR_kkwrX8',
+      type: 'short',
+      title: 'Margaret & Joseph Wedding Reel | A Beautiful Love Story',
+    },
+    {
       id: '15OY5CgCxZk',
       type: 'short',
       title: 'Joy & Victor’s Wedding Short Reel | A Beautiful Love Story',
