@@ -203,6 +203,13 @@ export const Concerts: FullData = {
 
   videos: [
     {
+      id: '3TN_bMZZqDY',
+      type: 'regular',
+      title:
+        'Nigeria Distilleries Limited Annual Conference 2026 Highlights | Balmoral Hall, Sheraton Ikeja',
+      duration: '1:33',
+    },
+    {
       id: 'zn9zAZg0Eec',
       type: 'regular',
       title:
@@ -394,6 +401,13 @@ export const Corporate: FullData = {
     },
   ],
   videos: [
+    {
+      id: '3TN_bMZZqDY',
+      type: 'regular',
+      title:
+        'Nigeria Distilleries Limited Annual Conference 2026 Highlights | Balmoral Hall, Sheraton Ikeja',
+      duration: '1:33',
+    },
     {
       id: 'hizUEw9F5Bc',
       type: 'regular',
