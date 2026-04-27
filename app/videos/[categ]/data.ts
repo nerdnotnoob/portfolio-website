@@ -147,6 +147,18 @@ export const RealEstate: FullData = {
 export const Concerts: FullData = {
   shorts: [
     {
+      id: 'fVtFKE5YGFM',
+      type: 'short',
+      title:
+        'Banke Naya Homecoming Concert Highlights | Jameson Yard, Lekki Phase 1',
+    },
+    {
+      id: 'FX4jUtR15KI',
+      type: 'short',
+      title:
+        'Nigeria Distilleries Annual Conference 2026 | Alternate Cut Highlights | Sheraton Ikeja',
+    },
+    {
       id: 'Ho2eLAnQbzA',
       type: 'short',
       title:
@@ -381,6 +393,12 @@ export const Concerts: FullData = {
 
 export const Corporate: FullData = {
   shorts: [
+    {
+      id: 'FX4jUtR15KI',
+      type: 'short',
+      title:
+        'Nigeria Distilleries Annual Conference 2026 | Alternate Cut Highlights | Sheraton Ikeja',
+    },
     {
       id: '0MtmI0KPX88',
       type: 'short',
