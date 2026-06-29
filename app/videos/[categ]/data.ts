@@ -673,6 +673,11 @@ export const Commercials: FullData = {
 export const Weddings: FullData = {
   shorts: [
     {
+      id: 'zMXxnqc0Tqk',
+      type: 'short',
+      title: 'Temi & Teju Wedding Reel | A Cinematic Love Story',
+    },
+    {
       id: 'zhZR_kkwrX8',
       type: 'short',
       title: 'Margaret & Joseph Wedding Reel | A Beautiful Love Story',
