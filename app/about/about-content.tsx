@@ -21,11 +21,6 @@ export const AboutContent = () => {
               width={320}
               height={320}
             />
-            {/* <div className="flex h-full items-center justify-center text-gray-500 dark:text-gray-400">
-              <p className="text-center text-sm">
-                Add your profile picture here
-              </p>
-            </div> */}
           </div>
 
           {/* Profile Info */}
@@ -46,10 +41,10 @@ export const AboutContent = () => {
             <p
               className={`text-base leading-relaxed ${theme === 'light' ? 'text-gray-700' : 'text-gray-300'} lg:text-lg`}
             >
-              A Nigerian cinematographer, director and photographer specializing
+              {`A Nigerian cinematographer, director and photographer specializing
               in commercials, documentaries, weddings and branded content. With
               over 10 years of experience, I've directed campaigns and visual
-              stories for brands and personalities across Nigeria.
+              stories for brands and personalities across Nigeria.`}
             </p>
 
             {/* Location */}
@@ -156,8 +151,8 @@ export const AboutContent = () => {
             <p
               className={`mb-4 ${theme === 'light' ? 'text-gray-600' : 'text-gray-400'}`}
             >
-              Ready to bring your vision to life? Let's create something amazing
-              together.
+              {`Ready to bring your vision to life? Let's create something amazing
+              together.`}
             </p>
             <a
               href="/bookings"
