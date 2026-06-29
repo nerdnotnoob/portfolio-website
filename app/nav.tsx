@@ -34,6 +34,9 @@ const Nav = () => {
             <NavLink href={'/'}>Gallery</NavLink>
           </li>
           <li className="w-40 text-center">
+            <NavLink href={'/about'}>About</NavLink>
+          </li>
+          <li className="w-40 text-center">
             <NavLink href={'/bookings'}>Bookings</NavLink>
           </li>
         </ul>
