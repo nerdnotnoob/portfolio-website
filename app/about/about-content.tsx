@@ -36,6 +36,22 @@ export const AboutContent = () => {
               >
                 Cinematographer, Director & Photographer
               </p>
+              <p
+                className={`text-base ${theme === 'light' ? 'text-gray-600' : 'text-gray-400'}`}
+              >
+                Creatively known as{' '}
+                <span
+                  className={theme === 'light' ? 'text-black' : 'text-white'}
+                >
+                  Nerdnotnoob
+                </span>
+                , creative director and founder of{' '}
+                <span
+                  className={theme === 'light' ? 'text-black' : 'text-white'}
+                >
+                  The INFO nerds
+                </span>
+              </p>
             </div>
 
             <p
