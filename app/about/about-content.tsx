@@ -29,7 +29,7 @@ export const AboutContent = () => {
               <h1
                 className={`mb-2 text-4xl font-bold sm:text-5xl ${theme === 'light' ? 'text-black' : 'text-white'}`}
               >
-                Rithwan Oyelude
+                Rithwan Oluwabukunmi Oyelude
               </h1>
               <p
                 className={`text-xl ${theme === 'light' ? 'text-gray-600' : 'text-gray-400'}`}
@@ -102,17 +102,11 @@ export const AboutContent = () => {
               >
                 Professional Cinema Cameras
               </p>
-              <ul className="ml-4 list-disc space-y-1">
-                <li>Sony FX3</li>
-                <li>Canon R8</li>
-              </ul>
-
               <p
                 className={`mt-4 font-semibold ${theme === 'light' ? 'text-gray-700' : 'text-gray-300'}`}
               >
                 Mirrorless & DSLR Cameras
               </p>
-              <p className="ml-4">Full range of professional-grade equipment</p>
             </div>
           </div>
 
