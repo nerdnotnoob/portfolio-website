@@ -43,13 +43,13 @@ export const AboutContent = () => {
                 <span
                   className={theme === 'light' ? 'text-black' : 'text-white'}
                 >
-                  Nerdnotnoob
+                  {`${'nerd not noob'}`}
                 </span>
                 , creative director and founder of{' '}
                 <span
                   className={theme === 'light' ? 'text-black' : 'text-white'}
                 >
-                  The INFO nerds
+                  The Info Nerds
                 </span>
               </p>
             </div>
