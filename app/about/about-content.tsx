@@ -45,7 +45,7 @@ export const AboutContent = () => {
                 >
                   {`${'nerd not noob'}`}
                 </span>
-                , creative director and founder of{' '}
+                , Bukunmi Oyelude is the creative director and founder of{' '}
                 <span
                   className={theme === 'light' ? 'text-black' : 'text-white'}
                 >

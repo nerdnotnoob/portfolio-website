@@ -577,6 +577,12 @@ export const Commercials: FullData = {
   ],
   videos: [
     {
+      id: 'kueOAsT_KM8',
+      type: 'regular',
+      title: 'Schweppes NG Commercial | Directed by Bukunmi Oyelude',
+      duration: '0:47',
+    },
+    {
       id: 'xpSxEjhu5mM',
       type: 'regular',
       title: 'Dreams - Bamboo x Temi',

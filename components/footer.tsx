@@ -36,6 +36,9 @@ const Footer = () => {
               <NavLink href={'/'}>Gallery</NavLink>
             </li>
             <li className="w-20 text-center sm:w-40">
+              <NavLink href={'/about'}>About</NavLink>
+            </li>
+            <li className="w-20 text-center sm:w-40">
               <NavLink href={'/bookings'}>Bookings</NavLink>
             </li>
           </ul>
