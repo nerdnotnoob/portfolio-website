@@ -66,9 +66,8 @@ const Nav = () => {
 
 export default Nav;
 
-export const NavLink = (
-  props: Omit<ComponentProps<typeof Link>, 'className'>,
-) => {
+export const NavLink = (props: ComponentProps<typeof Link>) => {
+  const { className } = props;
   const pathname = usePathname();
   const { theme } = useThemeStore();
 
@@ -77,6 +76,7 @@ export const NavLink = (
       {...props}
       className={cn(
         'text-2xl transition-all lg:text-4xl',
+        className,
         pathname === props.href
           ? `${theme === 'light' ? 'text-black' : 'text-white'}`
           : `${theme === 'light' ? 'text-black/40' : 'text-white/40'}`,

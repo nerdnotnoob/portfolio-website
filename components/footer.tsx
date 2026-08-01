@@ -28,18 +28,26 @@ const Footer = () => {
         <div
           className={`flex flex-col items-center justify-center gap-6 ${theme === 'light' ? 'text-black' : 'text-white'}`}
         >
-          <ul className="flex gap-6">
+          <ul className="flex gap-1 max-sm:justify-center sm:gap-6">
             <li className="w-20 text-center sm:w-40">
-              <NavLink href={'/home'}>Home</NavLink>
+              <NavLink href={'/home'} className="max-sm:text-xl">
+                Home
+              </NavLink>
             </li>
             <li className="w-20 text-center sm:w-40">
-              <NavLink href={'/'}>Gallery</NavLink>
+              <NavLink href={'/'} className="max-sm:text-xl">
+                Gallery
+              </NavLink>
             </li>
             <li className="w-20 text-center sm:w-40">
-              <NavLink href={'/about'}>About</NavLink>
+              <NavLink href={'/about'} className="max-sm:text-xl">
+                About
+              </NavLink>
             </li>
             <li className="w-20 text-center sm:w-40">
-              <NavLink href={'/bookings'}>Bookings</NavLink>
+              <NavLink href={'/bookings'} className="max-sm:text-xl">
+                Bookings
+              </NavLink>
             </li>
           </ul>
           <div className="flex items-center gap-1">
