@@ -147,6 +147,12 @@ export const RealEstate: FullData = {
 export const Concerts: FullData = {
   shorts: [
     {
+      id: '3VBOA--zJYQ',
+      type: 'short',
+      title:
+        'Funeral Ceremony of Madam Stella Demuren | Celebration of Life Highlights',
+    },
+    {
       id: 'fVtFKE5YGFM',
       type: 'short',
       title:
