@@ -685,6 +685,12 @@ export const Commercials: FullData = {
 export const Weddings: FullData = {
   shorts: [
     {
+      id: 'V6D2gow4_no',
+      type: 'short',
+      title:
+        'Adedamola & Adedamola | A Yoruba Love Story Told Like an Epic Film',
+    },
+    {
       id: 'zMXxnqc0Tqk',
       type: 'short',
       title: 'Temi & Teju Wedding Reel | A Cinematic Love Story',
