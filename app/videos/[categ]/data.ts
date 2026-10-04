@@ -527,6 +527,12 @@ export const Corporate: FullData = {
 export const Proposals: FullData = {
   shorts: [
     {
+      id: 'V6D2gow4_no',
+      type: 'short',
+      title:
+        'Adedamola & Adedamola | A Yoruba Love Story Told Like an Epic Film',
+    },
+    {
       id: 'K9NS2W4WCu4',
       type: 'short',
       title:
@@ -684,12 +690,6 @@ export const Commercials: FullData = {
 
 export const Weddings: FullData = {
   shorts: [
-    {
-      id: 'V6D2gow4_no',
-      type: 'short',
-      title:
-        'Adedamola & Adedamola | A Yoruba Love Story Told Like an Epic Film',
-    },
     {
       id: 'zMXxnqc0Tqk',
       type: 'short',
